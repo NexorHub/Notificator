@@ -1,6 +1,6 @@
 local TextChatService = game:GetService("TextChatService")
-local mensagem1 = "Queridos usuários devido a parceria do Ethus script e Die Scripts criamos o novo sistema NEXOR HUB"
-local mensagem2 = "com a intenção de gerar scripts avançados para todos os jogos, para Usuarios Premium aproveitem essa nova jornada."
+local mensagem1 = "Salve rapaziada!! percebi que o script esta com um bug no speed boost"
+local mensagem2 = "Estou trabalhando para arrumar essa função, amanhã ja estará tudo arrumado!!"
 pcall(function()
     TextChatService.TextChannels.RBXGeneral:SendAsync(mensagem1)
     task.wait(1) --mensagem para algo importante?
